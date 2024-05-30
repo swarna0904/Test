@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: mage-registry.openshift-image-registry.svc:5000/openshift/httpd:latest
+  repository: image-registry.openshift-image-registry.svc:5000/openshift/httpd:latest
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
