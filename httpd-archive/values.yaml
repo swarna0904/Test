@@ -81,3 +81,9 @@ nodeSelector: {}
 tolerations: []
 
 affinity: {}
+
+
+configparameters:
+
+  Environment: "dev"
+  httpport: "8080"

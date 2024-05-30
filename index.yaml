@@ -3,12 +3,12 @@ entries:
   httpd:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-05-30T12:51:00.3590853+05:30"
+    created: "2024-05-30T14:30:13.1963663+05:30"
     description: A Helm chart for Kubernetes
-    digest: c45159f78f18289d71e5776db7677a64fdb73b7e10eb5b4ed696a89b1afdefab
+    digest: 298b40161643023f3c74281dea7d04131d91def8cea6270830acf841fe09d324
     name: httpd
     type: application
     urls:
-    - https://swarna0904.github.io/Test/httpd-0.1.0.tgz
+    - https://swarna0904.github.io/Test/application-config/httpd-0.1.0.tgz
     version: 0.1.0
-generated: "2024-05-30T12:51:00.3574266+05:30"
+generated: "2024-05-30T14:30:13.1957726+05:30"
